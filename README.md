@@ -1,4 +1,9 @@
-# Frame OS
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/16e8dbc2-c8a6-41be-83e1-79b8d4057e9c" alt="Frame OS Logo" width="220">
+ </p>
+
+---
 
 **A connected software ecosystem by AGP.**
 
