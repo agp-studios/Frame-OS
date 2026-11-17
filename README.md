@@ -1,11 +1,10 @@
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/16e8dbc2-c8a6-41be-83e1-79b8d4057e9c" alt="Frame OS Logo" width="220">
- </p>
-
+  <img src="https://github.com/user-attachments/assets/16e8dbc2-c8a6-41be-83e1-79b8d4057e9c" alt="Frame OS Logo" width="200">
+  </p>
+ <h4 align="center">Building a connected software experience, starting with Frame OS TV.</h4>
+ 
 ---
-
-**A connected software ecosystem by AGP.**
 
 Frame OS is a software project focused on building a connected ecosystem of operating-system experiences, applications and digital services.
 
