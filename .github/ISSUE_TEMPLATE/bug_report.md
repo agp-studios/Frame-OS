@@ -4,7 +4,7 @@ name: Bug Report
 about: Report a problem with Frame OS
 title: "[BUG] "
 labels: bug
-assignees: "."
+assignees: ""
 ---
 
 ## Bug description
