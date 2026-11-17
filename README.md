@@ -4,9 +4,6 @@
   </p>
  <h4 align="center">Building a connected software experience, starting with Frame OS TV.</h4>
  
----
-
-Frame OS is a software project focused on building a connected ecosystem of operating-system experiences, applications and digital services.
 
 ## Current development focus
 
