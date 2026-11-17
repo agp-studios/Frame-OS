@@ -9,7 +9,7 @@
 
 **Frame OS TV — Android TV**
 
-Android TV is the sole target platform for the initial Frame OS TV project.
+>Android TV is the sole target platform for the initial Frame OS TV project.
 
 ## <img src="https://github.com/user-attachments/assets/2526635d-d11e-454f-bcaa-11dbe40cf266" alt="Frame OS Logo" width="25">Ecosystem direction
 
