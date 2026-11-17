@@ -31,7 +31,7 @@ Frame OS is in the planning and foundation stage. Product documentation and tech
 
 The creator is **AGP**
 
----
+------
 
 ### Copyright
 
@@ -41,4 +41,4 @@ No permission is granted to reproduce, modify, distribute or commercially use th
 
 Third-party components remain subject to their respective licenses.
 
----
+------
