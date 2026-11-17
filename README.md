@@ -2,29 +2,29 @@
 
 **A connected software ecosystem by AGP.**
 
-Frame OS is a software development project
-focused on building a connected ecosystem
-of operating systems, applications and
-digital experiences.
+Frame OS is a software project focused on building a connected ecosystem of operating-system experiences, applications and digital services.
 
-## Ecosystem
+## Current development focus
 
-- Frame OS TV (Andriod TV)
-- Frame OS TV (Jio TV)
+**Frame OS TV — Android TV**
 
-## Development Status
+Android TV is the sole target platform for the initial Frame OS TV project.
 
-Frame OS is currently in its planning and
-early development stage.
+## Ecosystem direction
 
-The first development priority is Frame OS TV.
+The wider Frame Ecosystem may expand into additional software products over time. Each product will be documented as its scope and technical plans are confirmed.
 
-## Project Goals
+## Project status
 
-- Build modern software experiences
-- Create a connected ecosystem
-- Develop custom operating system interfaces
-- Improve integration between software products
+Frame OS is in the planning and foundation stage. Product documentation and technical research come before implementation.
+
+## Project goals
+
+- Build clear, modern and useful software experiences.
+- Create a consistent identity across Frame products.
+- Design software that works well with its intended devices and input methods.
+- Prioritise reliability, usability, privacy and maintainability.
+- Expand the ecosystem in planned stages.
 
 ## Creator
 
@@ -34,10 +34,6 @@ The first development priority is Frame OS TV.
 
 Copyright (c) 2026 AGP. All rights reserved.
 
-No permission is granted to reproduce, modify,
-distribute or commercially use this project's
-original code without prior written permission,
-except where applicable law provides otherwise.
+No permission is granted to reproduce, modify, distribute or commercially use this project's original code without prior written permission, except where applicable law provides otherwise.
 
-Third-party components remain subject to their
-respective licenses.
+Third-party components remain subject to their respective licenses.
